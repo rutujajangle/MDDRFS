@@ -77,7 +77,7 @@ We use a variety of state-of-the-art deep learning models for the classification
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yasho191/MDDRFS.git
+   git clone https://github.com/rutujajangle/MDDRFS.git
    cd MDDRFS
    ```
 
